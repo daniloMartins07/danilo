@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1749856169 source:c:\users\kayky\desktop\dados\acessoriasequencial3\main.cpp
+	<iostream>
+	<fstream>
+

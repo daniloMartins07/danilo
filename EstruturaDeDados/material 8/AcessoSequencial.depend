@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1749854794 source:c:\users\kayky\desktop\dados\acessosequencial\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
